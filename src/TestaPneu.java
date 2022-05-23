@@ -11,5 +11,6 @@ public class TestaPneu {
 		System.out.println("Presão Desejada: " + bomba.getPressaoDesejada());
 		System.out.println("Presão do Pneu: " + bomba.getPressaoLida());
 		System.out.println("Resultado: " + bomba.obterResultado());
+		
 	}
 }
